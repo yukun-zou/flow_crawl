@@ -38,7 +38,7 @@ https://flows.nodered.org/flow/701452d1839b7e433e9eae171113ae35
 //div[@class="grid thing-list-section main-content"]/div[2]/div[1]/div[4]/a[1]
 ```
 
-Below is demo gif for tutorial.  
+Below is demo gif for tutorial. This gif is even bigger than the video(100MB exceeds the upper limit of compressible gif files), It will take a while to load, if you want to watch the video, check out /lib/tutorial.mp4   
 
 ![image](https://github.com/792445363/flow_crawl/blob/main/lib/865652-video1139592532-20230928-183830.gif)  
 
